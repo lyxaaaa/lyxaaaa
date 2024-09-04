@@ -21,6 +21,6 @@ class About extends Me {
 ```
 
 <div>
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyxaaaa&layout=compact&hide_border=true"/>
-  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api?username=lyxaaaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyxaaaa&layout=compact"/>
+  <img align="top" width="45%" src="https://github-readme-stats.vercel.app/api?username=lyxaaaa&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
