@@ -15,5 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lyxaaaa-github](https://github-readme-stats.vercel.app/api?username=lyxaaaa-github)](https://github.com/anuraghazra/github-readme-stats)
+### A college student studying front-end development
+
+## 𝑨𝒃𝒐𝒖𝒕
+
+```js
+const FrontEndDeveloper = {};
+const mine = Object.create(FrontEndDeveloper)
+mine.from = '江西抚州'
+mine.university = 'Central China Normal University'
+mine.organization = '木犀团队'
+mine.target = function () {
+    setTimeout(() => {
+        mine.identity = 'A better front-end engineer'
+    }, Infinity)
+}
+```
 
